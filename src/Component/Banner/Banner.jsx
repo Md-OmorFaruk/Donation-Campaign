@@ -2,7 +2,7 @@ import backgroundImage from './Rectangle.png'
 const Banner = () => {
       return (
             <div>
-            <div className="hero min-h-[500px] backdrop-brightness-100" style={{backgroundImage: `url(${backgroundImage})`}}>
+            <div className="hero min-h-[500px] bg-blend-lighten" style={{backgroundImage: `url(${backgroundImage})`}}>
             <div className="hero-overlay bg-opacity-60"></div>
             <div className="hero-content text-center text-neutral-content">
             <div className="max-w-fit ">
