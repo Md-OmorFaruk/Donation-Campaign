@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "picture": "https://img.freepik.com/free-photo/close-up-african-american-hand-holding-stethoscope_482257-19507.jpg?w=996&t=st=1695801719~exp=1695802319~hmac=bbfc46e76fc3793283697ed7a1ef1dcdd190a0d370704c393b33732ea3a5f77c",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#3498db",
+      "card_bg": "#ecf0f1",
+      "text_button_bg": "#2ecc71",
+      "description": "This is a high-quality electronic product with advanced features.",
+      "price": 499.99
+    },
+    {
+      "id": 2,
+      "picture": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-open-book-education-day_23-2149241017.jpg?w=996&t=st=1695801799~exp=1695802399~hmac=09465daedff7dc41d19a89b54db227187484da30bf8e685849287a6ef7255b28",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#e74c3c",
+      "card_bg": "#f5b7b1",
+      "text_button_bg": "#e67e22",
+      "description": "A stylish and comfortable clothing item for all occasions.",
+      "price": 39.99
+    },
+    {
+      "id": 3,
+      "picture": "https://img.freepik.com/free-vector/flat-design-illustration-clothing-donation-concept_52683-55516.jpg?w=996&t=st=1695801872~exp=1695802472~hmac=d4d1c305743f78a0ccf599d44a602530dc7aa9fc3d207276420ffdf2fda7133a",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#9b59b6",
+      "card_bg": "#d2b4de",
+      "text_button_bg": "#8e44ad",
+      "description": "Enhance your home's beauty with this elegant home decor piece.",
+      "price": 79.99
+    },
+    {
+      "id": 4,
+      "picture": "https://img.freepik.com/free-photo/top-view-food-donation_23-2148733821.jpg?w=900&t=st=1695801975~exp=1695802575~hmac=b8a2ac12aba4580b8c6822bf973396e68637b8fb1aa20cce847054ca743a25de",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#3498db",
+      "card_bg": "#ecf0f1",
+      "text_button_bg": "#2ecc71",
+      "description": "A best-selling book that will keep you hooked from start to finish.",
+      "price": 19.99
+    },
+    {
+      "id": 5,
+      "picture": "https://img.freepik.com/free-photo/top-view-food-donation_23-2148733821.jpg?w=900&t=st=1695801975~exp=1695802575~hmac=b8a2ac12aba4580b8c6822bf973396e68637b8fb1aa20cce847054ca743a25de",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#e74c3c",
+      "card_bg": "#f5b7b1",
+      "text_button_bg": "#e67e22",
+      "description": "A fun and educational toy for kids of all ages.",
+      "price": 29.99
+    },
+    {
+      "id": 6,
+      "picture": "https://img.freepik.com/free-vector/flat-design-illustration-clothing-donation-concept_52683-55516.jpg?w=996&t=st=1695801872~exp=1695802472~hmac=d4d1c305743f78a0ccf599d44a602530dc7aa9fc3d207276420ffdf2fda7133a",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#9b59b6",
+      "card_bg": "#d2b4de",
+      "text_button_bg": "#8e44ad",
+      "description": "Cutting-edge technology in a sleek and compact design.",
+      "price": 599.99
+    },
+    {
+      "id": 7,
+      "picture": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-open-book-education-day_23-2149241017.jpg?w=996&t=st=1695801799~exp=1695802399~hmac=09465daedff7dc41d19a89b54db227187484da30bf8e685849287a6ef7255b28",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#3498db",
+      "card_bg": "#ecf0f1",
+      "text_button_bg": "#2ecc71",
+      "description": "Stay fashionable and comfortable with this clothing item.",
+      "price": 49.99
+    },
+    {
+      "id": 8,
+      "picture": "https://img.freepik.com/free-photo/close-up-african-american-hand-holding-stethoscope_482257-19507.jpg?w=996&t=st=1695801719~exp=1695802319~hmac=bbfc46e76fc3793283697ed7a1ef1dcdd190a0d370704c393b33732ea3a5f77c",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#e74c3c",
+      "card_bg": "#f5b7b1",
+      "text_button_bg": "#e67e22",
+      "description": "Add a touch of elegance to your living space with this decor piece.",
+      "price": 89.99
+    },
+    {
+      "id": 9,
+      "picture": "https://img.freepik.com/free-photo/close-up-african-american-hand-holding-stethoscope_482257-19507.jpg?w=996&t=st=1695801719~exp=1695802319~hmac=bbfc46e76fc3793283697ed7a1ef1dcdd190a0d370704c393b33732ea3a5f77c",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#9b59b6",
+      "card_bg": "#d2b4de",
+      "text_button_bg": "#8e44ad",
+      "description": "A gripping novel that will keep you up all night.",
+      "price": 24.99
+    },
+    {
+      "id": 10,
+      "picture": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-open-book-education-day_23-2149241017.jpg?w=996&t=st=1695801799~exp=1695802399~hmac=09465daedff7dc41d19a89b54db227187484da30bf8e685849287a6ef7255b28",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#3498db",
+      "card_bg": "#ecf0f1",
+      "text_button_bg": "#2ecc71",
+      "description": "An interactive and entertaining toy for kids.",
+      "price": 34.99
+    },
+    {
+      "id": 11,
+      "picture": "https://img.freepik.com/free-vector/flat-design-illustration-clothing-donation-concept_52683-55516.jpg?w=996&t=st=1695801872~exp=1695802472~hmac=d4d1c305743f78a0ccf599d44a602530dc7aa9fc3d207276420ffdf2fda7133a",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#e74c3c",
+      "card_bg": "#f5b7b1",
+      "text_button_bg": "#e67e22",
+      "description": "Stay connected with the latest in electronic gadgets.",
+      "price": 799.99
+    },
+    {
+      "id": 12,
+      "picture": "https://img.freepik.com/free-photo/top-view-food-donation_23-2148733821.jpg?w=900&t=st=1695801975~exp=1695802575~hmac=b8a2ac12aba4580b8c6822bf973396e68637b8fb1aa20cce847054ca743a25de",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#9b59b6",
+      "card_bg": "#d2b4de",
+      "text_button_bg": "#8e44ad",
+      "description": "Dress in style with this trendy clothing item.",
+      "price": 59.99
+    }
+  ]
